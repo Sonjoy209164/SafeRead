@@ -66,35 +66,37 @@ A java project made by netbeans
 
 ## Introduction
 
-The Car Rental Management System is a Java application developed using NetBeans that facilitates the efficient management of a car rental business.
-It provides tools for managing vehicle inventory, customer information, reservations, rental transactions, and more.
+The purpose of this project is to perform a keyword-based classification on different Bangla contents. The Keyword Based Classifier is a simple classifier that searches for repeating string sequences within a given file, in order to perform document classification. There are no websites that can classify and recommend safe Bangla content for under aged individuals. To protect our minors from abusive content we developed our system as a keyword-based classifier, which classifies contents into three categories: political, religious, and abusive.  Based on the intensity of the words of different categories we set a threshold for recommending contents for minors.
 
 ---
 
 ## Features
 
-- User-friendly graphical user interface (GUI).
-- Manage vehicle inventory: Add, edit, and delete vehicles.
-- Customer management: Store and manage customer check in check out information.
-- Reservation system: Allow customers to make reservations for specific dates.
-- Rental transactions: Record and manage rental transactions.
-- Reports generation: Generate reports for various aspects of the business.
+1. Review existing methods for classifying different types of Bangla content.
+2. Apply our proposed preprocessing and highly modified dataset to classify the content.
+3. Implement uni-gram, bi-gram, and tri-gram based comparison techniques as discussed.
+4. Apply the proposed comparison algorithm to the Bangla dataset.
+5. Develop an end-to-end system for online Bangla content classification and recommendation.
+6. Design user-friendly web applications for optimal user experience.
+7. Expand the principles of online keyword-based classification techniques to real-world scenarios.
+8. Review the challenges we faced.
+
 
 ---
 
 ## attraction
- -Can add car picture 
- -Does the daily transaction calculations itself
- -has a dedicated employee/admin and user pannel
- -can compare which car is better or minimum cost or maximum cost
+ -Have created a dataset of my own.
+ -Have a political ,religious and Abusive words dictnary.
+ -has the ability to classify contents.
+ -Can extarct text from bangla pdf. 
 
 ---
 
 ## Technologies
 
-- Java
-- NetBeans IDE
-- MySQL 
+- Python
+- Streamlit
+- Bangla NLP text preprocessing tools.
 - ****
 
 ---
@@ -112,8 +114,6 @@ It provides tools for managing vehicle inventory, customer information, reservat
 
 1. Launch the application.
 2. Navigate through the user interface to access various features.
-3. Perform actions such as adding vehicles, managing customers, making reservations, etc.
-4. Explore the reports section to generate business-related reports.
 
 ---
 
