@@ -24,21 +24,14 @@ NLP based content classifier in bangla.
 
 
 ## Design overview
-![main](https://github.com/Sonjoy209164/SafeRead/blob/9ccf076629cf76c756ef0f5d3c8ddb9a2617d8e7/Picture2.emf)
+![main](https://github.com/Sonjoy209164/SafeRead/blob/4e17f5a81c5f64a4b8695df4c52da5cb6e8cbef3/Picture4.png)
 
 
 ## App all pages
-![Loading Page](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1loadingpage.png)
-![User Login](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.0%20user%20lodin.png)
-![User Home 1](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.1userhome1.png)
-![User Home 2](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.2userhome2.png)
-![User Search Car by Brand](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.3usersearch%20carby%20brand.png)
-![Search by Price Range](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.4search%20by%20price%20range.png)
-![Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.5%20details.png)
-![Car Picture](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.6%20caar%20picture.png)
-![Check-in](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.7checkin.png)
-![Checkout and Receipt](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.8%20checkout%2Brecipt.png)
-![Receipt](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.9%20recipt.png)
+![Loading Page](https://github.com/Sonjoy209164/SafeRead/blob/4e17f5a81c5f64a4b8695df4c52da5cb6e8cbef3/Picture5.png)
+![User Login](https://github.com/Sonjoy209164/SafeRead/blob/4e17f5a81c5f64a4b8695df4c52da5cb6e8cbef3/Picture6.png)
+![User Home 1](https://github.com/Sonjoy209164/SafeRead/blob/4e17f5a81c5f64a4b8695df4c52da5cb6e8cbef3/Picture7.png)
+![User Home 2](https://github.com/Sonjoy209164/SafeRead/blob/4e17f5a81c5f64a4b8695df4c52da5cb6e8cbef3/Picture8.png)
 
 
 
