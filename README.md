@@ -3,7 +3,7 @@ NLP based content classifier in bangla.
 
 
 
-![Screenshot_20221117_042112](https://github.com/Sonjoy209164/CarRentalManagementSystem/assets/66799652/63e883a8-8944-4909-ac70-d2b4b97f99a4)
+![Screenshot_20221117_042112](https://github.com/Sonjoy209164/SafeRead/blob/477a52301c48484a4b97adbd19c2a677c05fcd35/Picture1.png)
 
 > A NLP based bangla content classifier.
 
@@ -25,10 +25,7 @@ NLP based content classifier in bangla.
 
 ## Design overview
 ![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.1.png)
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.2.png)
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.3.png)
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.4.png)
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.png)
+
 
 ## App all pages
 ![Loading Page](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1loadingpage.png)
@@ -43,24 +40,7 @@ NLP based content classifier in bangla.
 ![Checkout and Receipt](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.8%20checkout%2Brecipt.png)
 ![Receipt](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/2.9%20recipt.png)
 
-![Admin Employee Home](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.1.1admin%20employee%20home.png)
-![Customer Bill Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.10customer%20billdetails.png)
-![Car Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.11.cardetails.png)
-![Car Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.12car%20details.png)
-![Customer Check-in](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.13%20customer%20checkin.png)
-![Customer Checkout](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.145%20customer%20checkout.png)
-![Date Search Customer](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.17%20date%20search%20customer.png)
-![Employee Login](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.1employee%20login.png)
-![Signup](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.2%20signup.png)
-![Forgot Password](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.3%20forgotpassword.png)
-![Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.4details.png)
-![Approve Employee](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.5.1approve%20employee.png)
-![Approve Dialog Box](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.5.2%20appreove%20dialoguebox.png)
-![Approved](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.5.3%20approved.png)
-![Add Employee](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.6addemployee.png)
-![Update Employee Info](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.7updateemployeeinfo.png)
-![Details](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.8%20details.png)
-![Delete](https://github.com/Sonjoy209164/CarRentalManagementSystem/raw/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/1.9delete%20.png)
+
 
 ## Introduction
 
