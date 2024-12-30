@@ -24,7 +24,7 @@ NLP based content classifier in bangla.
 
 
 ## Design overview
-![main](https://github.com/Sonjoy209164/CarRentalManagementSystem/blob/7a873c2b2c8d69cd091db0a81db60f4934f3b7eb/pictures/0.1.png)
+![main](https://github.com/Sonjoy209164/SafeRead/blob/9ccf076629cf76c756ef0f5d3c8ddb9a2617d8e7/Picture2.emf)
 
 
 ## App all pages
