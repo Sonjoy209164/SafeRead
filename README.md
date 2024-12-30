@@ -74,10 +74,9 @@ The purpose of this project is to perform a keyword-based classification on diff
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/carrental-management.git`
-2. Open the project in NetBeans IDE.
-3. Configure the database connection settings in the relevant files (if applicable).
-4. Build and run the project.
+1. Clone the repository: `https://github.com/Sonjoy209164/SafeRead.git`
+2. Open the project in colab.
+3. Load the datasets and you are good to go.
 
 ---
 
